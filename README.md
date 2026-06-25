@@ -18,7 +18,7 @@ I'm documenting my journey as I build practical skills — from cleaning raw dat
 
 ### Level 3 (Advanced)
 - **Predictive Modeling (Classification)**: Built models (Logistic Regression, Decision Trees, Random Forest) with hyperparameter tuning.
-- **Interactive Dashboards**: Created dynamic dashboards in Power BI / Tableau.
+- **Interactive Dashboards**: Created dynamic dashboards in Power BI.
 - **NLP - Sentiment Analysis**: Analyzed text data using NLTK/TextBlob and generated word clouds.
 
 ## 🛠️ Tech Stack
