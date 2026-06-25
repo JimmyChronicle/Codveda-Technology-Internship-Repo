@@ -27,7 +27,7 @@ I'm documenting my journey as I build practical skills — from cleaning raw dat
 - **Matplotlib**, **Seaborn**
 - **scikit-learn**, **statsmodels**
 - **NLTK**, **TextBlob**
-- **Power BI / Tableau**
+- **Power BI**
 
 ## 📁 Repository Structure
 
